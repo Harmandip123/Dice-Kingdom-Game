@@ -117,4 +117,6 @@ NewGame_Button.addEventListener('click', function () {
   } else {
     activeplayer2.classList.remove('player--winner');
   }
+  netSP1 = 0;
+  netSP2 = 0;
 });
