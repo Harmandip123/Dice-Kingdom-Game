@@ -1,5 +1,5 @@
 # Dice-Kingdom-Game
-This is a fun and interactive dice game that I've created using HTML, CSS, and JavaScript. It's a simple game where two players take turns rolling a dice, aiming to be the first to reach a score of 100.
+This is a fun and interactive dice game that I've created using HTML, CSS, and JavaScript. It's a simple game where two players take turns rolling a dice, aiming to be the first to reach a score of 20.
 
 **Game Features**
 
@@ -9,6 +9,6 @@ This is a fun and interactive dice game that I've created using HTML, CSS, and J
 
 3.Switch Player: If a player rolls a 1, their turn ends, and it's the next player's turn.
 
-4.Winning Condition: The first player to reach 100 points wins the game.
+4.Winning Condition: The first player to reach 20 points wins the game.
 
 5.Reset Game: Players can reset the game at any time, starting over with all scores set to zero.
