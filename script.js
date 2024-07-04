@@ -95,10 +95,13 @@ Hold_Button.addEventListener('click', function () {
       activeplayer2.classList.add('player--winner');
       activeplayer2.classList.remove('player--active');
     }
+    
     // to end the game after winnig the game
 
     Hold_Button.classList.toggle('hidden');
     rollDise_Button.classList.toggle('hidden');
+    netSP1=0;
+    netSP2=0;
   }
 });
 
